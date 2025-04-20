@@ -2,14 +2,6 @@
 
 This project leverages deep learning to automate the detection of malaria-infected cells in microscopic blood images. Using preprocessed image data and neural networks, it classifies whether a given cell is healthy or infected.
 
-📁 Files & Structure
-
-Cells.npy, labels.npy - Numpy arrays containing cell image data and corresponding labels.
-
-MalriaDetectionr.ipynb - Notebook for training and evaluating the malaria detection model.
-
-MalariaCells.ipynb - Additional analysis and visualization notebook.
-
 🧠 Model Overview
 
 CNN-based architecture trained on labeled microscopy images.
