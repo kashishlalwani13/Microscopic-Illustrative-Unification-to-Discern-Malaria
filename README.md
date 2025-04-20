@@ -10,10 +10,6 @@ MalriaDetectionr.ipynb - Notebook for training and evaluating the malaria detect
 
 MalariaCells.ipynb - Additional analysis and visualization notebook.
 
-app.py - Web app to upload/test images and get malaria classification.
-
-Procfile - Deployment configuration for Heroku or similar platforms.
-
 🧠 Model Overview
 
 CNN-based architecture trained on labeled microscopy images.
