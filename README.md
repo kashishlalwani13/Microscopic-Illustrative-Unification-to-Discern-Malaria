@@ -1,4 +1,4 @@
-🦠 Microscopic Illustrative Unification to Discern Malaria
+🦠 Malaria Detection System using CNNs, OpenCV, and Microscopic Blood Smear Images
 
 This project leverages deep learning to automate the detection of malaria-infected cells in microscopic blood images. Using preprocessed image data and neural networks, it classifies whether a given cell is healthy or infected.
 
